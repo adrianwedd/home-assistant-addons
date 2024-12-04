@@ -1,0 +1,9 @@
+{
+  "github_fulltag": "true",
+  "last_update": "04-12-2024",
+  "repository": "adrianwedd/home-assistant-addons",
+  "slug": "nicotine_plus_openvpn",
+  "source": "github",
+  "upstream_repo": "fletchto99/nicotine-plus-docker",
+  "upstream_version": "v5.3.1"
+}

@@ -1,0 +1,10 @@
+{
+  "build_from": {
+    "aarch64": "fletchto99/nicotine-plus-docker:latest",
+    "amd64": "fletchto99/nicotine-plus-docker:latest",
+    "armv7": "fletchto99/nicotine-plus-docker:latest"
+  },
+  "codenotary": {
+    "signer": "adrian@adrianwedd.com"
+  }
+}
